@@ -5,9 +5,16 @@
 # questions.
 
 # 1. What is the 'Collection'?
+# The collection is the array titled students.
+
 # 2. What do you notice about the code below?
+# It's an array of strings that is repeating the same line.
+
 # 3. What issues could potentially crop up?
+# What if there are new elements added?
+
 # 4. Is there an alternative you could propose?
+# Use the each iteration to read through it all.
 
 students = ["Megan", "Bob", "Mike"]
 # puts students[0]
